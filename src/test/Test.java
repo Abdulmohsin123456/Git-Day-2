@@ -7,4 +7,5 @@ public class Test {
 	public static void add(int a, int b) {
 		System.out.println(a+b);
 	}
+	// from githup 2
 }
